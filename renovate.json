@@ -1,5 +1,8 @@
 {
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base"
-  ]
+    "github>bettermarks/renovate-config:javascript",
+    ":automergePatch"
+  ],
+  "automerge": true
 }
