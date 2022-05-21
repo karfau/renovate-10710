@@ -19,6 +19,6 @@
   "homepage": "https://github.com/karfau/renovate-10710#readme",
   "devDependencies": {
     "jest": "27.5.1",
-    "ts-jest": "27.1.4"
+    "ts-jest": "27.1.5"
   }
 }
